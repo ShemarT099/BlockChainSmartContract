@@ -1,3 +1,7 @@
+# Introduction
+
+This repository contains code and build functions for my final year project during my time at university
+
 # SmartContract
 This Atomic swap Smart Contract was created on the Remix IDE, developed using the Solidity language.
 It has been tested using Truffle-Ganache and MetaMask
