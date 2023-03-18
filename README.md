@@ -20,7 +20,7 @@ The timelock.
 A secret key is provided by the owner which is then turned into a hashlock via Hash.sol. Hash.sol includes a cryptographic function called SHA256, which would turn the string into a an address of type bytes32
 
 
-#Tools
+# Tools
 
 This Atomic Swap smart ontract was developed on the Remix IDE, and built using the Solidity language.
 It has been tested using Truffle-Ganache and MetaMask
